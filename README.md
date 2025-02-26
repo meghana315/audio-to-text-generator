@@ -1,4 +1,3 @@
-Here's a **professional and well-structured** `README.md` file for your **Speech-to-Text Transcription using Wav2Vec2** project:  
 
 ---
 
@@ -87,7 +86,7 @@ This project is open-source and available under the **MIT License**.
 ## **📬 Contact**  
 For any queries or contributions, feel free to reach out:  
 📧 Email: bandimeghana315@gmail.com 
-🐙 GitHub: [your-username](https://github.com/meghana315) 
+🐙 GitHub: [https://github.com/meghana315](https://github.com/meghana315) 
 
 ---
 
